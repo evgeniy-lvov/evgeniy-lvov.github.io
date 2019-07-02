@@ -1,0 +1,23 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Posts on Evgeniy Lvov</title>
+        <link>/posts/</link>
+        <description>Recent content in Posts on Evgeniy Lvov</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en-us</language>
+        <lastBuildDate>Thu, 16 May 2019 19:53:23 +0300</lastBuildDate>
+        <atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+        
+        <item>
+            <title>First Post</title>
+            <link>/posts/hello/</link>
+            <pubDate>Thu, 16 May 2019 19:53:23 +0300</pubDate>
+            
+            <guid>/posts/hello/</guid>
+            <description>Hello, World!</description>
+            <content type="html"><![CDATA[<p>Hello, World!</p>
+]]></content>
+        </item>
+        
+    </channel>
+</rss>

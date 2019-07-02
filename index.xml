@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Evgeniy Lvov</title>
+    <link>/</link>
+    <description>Recent content on Evgeniy Lvov</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 16 May 2019 19:53:23 +0300</lastBuildDate>
+    
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>First Post</title>
+      <link>/posts/hello/</link>
+      <pubDate>Thu, 16 May 2019 19:53:23 +0300</pubDate>
+      
+      <guid>/posts/hello/</guid>
+      <description>Hello, World!</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/about/</guid>
+      <description>Hello, my name is Evgeniy! I&amp;rsquo;m Ruby Developer with a half year experience. Programming is my great passion and hobby, even from school I was engaged in self-education and learned to build websites and programs. Then I finished university by &amp;lsquo;Computer systems and network&amp;rsquo; specialization.
+I want to work with people who share my interests and strive for constant development, the creation of their projects, etc. I have good communication skills, also I&amp;rsquo;m interested in architecture, high load, functional programming.</description>
+    </item>
+    
+    <item>
+      <title>CV</title>
+      <link>/cv/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/cv/</guid>
+      <description>Education Computer systems and networks | Sevastopol State Technical University | 2016
+Skills Ruby Ruby On Rails Git SQL Linux Docker
+Work Experience 404Group | 02.2019 - 04.2019
+ Using GitLab, Docker, Jira. API development. Writing API documentation. Writing logic coverage tests. Programming under the direction and code review of the team lead and mentor from mkdev.  GetSimpleAdmin.com | 09.2018 - 12.2018
+ Writing complex business logic. Using version control tool Git and code storage tool Gitlab for added application functionality.</description>
+    </item>
+    
+  </channel>
+</rss>
