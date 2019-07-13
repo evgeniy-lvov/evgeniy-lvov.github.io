@@ -5,8 +5,19 @@
         <description>Recent content in Posts on Evgeniy Lvov</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Thu, 16 May 2019 19:53:23 +0300</lastBuildDate>
+        <lastBuildDate>Sat, 13 Jul 2019 22:07:20 +0300</lastBuildDate>
         <atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+        
+        <item>
+            <title>Vim cheat sheet</title>
+            <link>/posts/vim-cheat-sheet/</link>
+            <pubDate>Sat, 13 Jul 2019 22:07:20 +0300</pubDate>
+            
+            <guid>/posts/vim-cheat-sheet/</guid>
+            <description></description>
+            <content type="html"><![CDATA[<p><img src="https://i.imgur.com/YLInLlY.png" align="center"></p>
+]]></content>
+        </item>
         
         <item>
             <title>First Post</title>
